@@ -44,7 +44,7 @@ This [datapackage](https://dataprotocols.org/data-packages/) only list cities ab
 
 - Copy the following command to clone this repository in your local storage:
 ```
-git clone https://github.com/pooranjoyb/places-api.git
+git clone https://github.com/pooranjoyb/Places-API.git
 ```
 - Hit the Enter key.
 
