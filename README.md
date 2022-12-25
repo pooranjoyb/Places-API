@@ -72,6 +72,16 @@ It would take a few seconds to clone the repository onto your system.<br>
 
 - Check in the local drive by navigating to it manually.
 
+
+## Dependencies
+
+- Nodemon (v2.0.20)
+- JSON-server (v0.17.1)
+
+Installation
+    
+    npm install
+
 - Run the following command to run the development server
 
 ```js
@@ -82,11 +92,6 @@ npm start
 
 Contributions and Commits are apppreciated. <br> 
 **ADD** your own city and create a **PULL REQUEST** to contribute 
-
-## Dependencies
-
-- Nodemon (v2.0.20)
-- JSON-server (v0.17.1)
 
 ## Agreement
 
